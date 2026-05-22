@@ -9,17 +9,6 @@ Traditionally, Lyapunov Exponents are calculated using computationally expensive
 This project explores whether a CNN model can learn chaotic dynamics directly from a single-variable time series and predict the Lyapunov spectrum efficiently.
 
 
-## Files
-
-- `calcLyponoClassical.ipynb`  
-  Classical numerical computation of Lyapunov Exponents.
-
-- `CnnModel.ipynb`  
-  CNN model for predicting Lyapunov Exponents from Lorenz time-series data.
-
-- `compareBoth.ipynb`  
-  Comparison between classical and CNN predicted results.
-
 ## Tech Stack
 
 - Python
